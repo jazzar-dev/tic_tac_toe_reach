@@ -1,2 +1,4 @@
-                        # ignore the github cheatsheet file
-                        git.md
+# ignore the github cheatsheet file
+git.md
+# Ignore the IDE generated folder
+.idea
